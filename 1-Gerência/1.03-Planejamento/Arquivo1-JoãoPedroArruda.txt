@@ -1,5 +1,9 @@
-Nome do artefato: Arquivo1-JoãoPedroArruda.txt
+﻿Nome do artefato: Arquivo1-JoãoPedroArruda.txt
 Nome do(a) autor(a): João Pedro Arruda Vieira
 Data de criação: 13/04/2018
 Hora de criação: 13:51:35
 
+Nome do artefato: Arquivo1-JoãoPedroArruda.txt
+Nome do(a) autor(a) da alteração: Sofia Martins Moraes
+Data da alteração: 23/04/2018
+Hora da alteração: 14:13
