@@ -2,3 +2,8 @@ Nome do artefato: Arquivo1-LarissaMello.txt
 Nome do(a) autor(a): Larissa Chyevena Lopes de Mello
 Data de criação: 14/04/2018
 Hora de criação: 10:51:24
+-
+Nome do artefato: Arquivo1-LarissaMello.txt
+Nome do(a) autor(a) da alteração: João Pedro Arruda Vieira
+Data da alteração: 23/04/2018
+Hora da alteração: 14:06:24
