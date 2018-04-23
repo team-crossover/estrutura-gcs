@@ -2,3 +2,10 @@ Nome do artefato: Arquivo1-NataliaLopes.txt
 Nome do(a) autor(a): Natália Lopes da Silva
 Data de criação: 15/04/2018
 Hora de criação: 21:47:09
+
+-
+
+Nome do artefato: Arquivo1-NataliaLopes.txt
+Nome do(a) autor(a) da alteração: Larissa Chyevena Lopes de Mello
+Data da alteração: 23/04/2018
+Hora da alteração: 14:09:27
