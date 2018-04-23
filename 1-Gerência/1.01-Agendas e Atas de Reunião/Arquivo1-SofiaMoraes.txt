@@ -2,3 +2,8 @@ Nome do artefato: Arquivo1-SofiaMoraes.txt
 Nome do(a) autor(a): Sofia Martins Moraes
 Data de criação: 13/04/2018
 Hora de criação: 13:22
+-
+Nome do artefato: Arquivo1-SofiaMoraes.txt
+Nome do(a) autor(a) da alteração: Nelson William Viana de Siqueira
+Data da alteração: 23/04/2018
+Hora da alteração: 13:58
