@@ -1,4 +1,13 @@
-Nome do artefato: Arquivo1-NelsonWilliam.txt
+﻿Nome do artefato: Arquivo1-NelsonWilliam.txt
 Nome do(a) autor(a): Nelson William Viana de Siqueira
 Data de criação: 04/13/2018
 Hora de criação: 13:09:20
+
+
+-
+
+
+Nome do artefato: Arquivo1-NataliaLopes.txt
+Nome do(a) autor(a) da alteração: Natalia Lopes da Silva
+Data da alteração: 23/04/2018
+Hora da alteração: 23:05:45
