@@ -1,0 +1,6 @@
+Nome do artefato: Arquivo3-NataliaLopes.txt
+Nome do(a) autor(a): Natália Lopes da Silva
+Data de criação: 25/04/2018
+Hora de criação: 23:59:12
+
+Documento criado no ramo2.
