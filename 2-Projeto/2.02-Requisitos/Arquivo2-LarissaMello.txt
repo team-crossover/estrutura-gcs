@@ -1,6 +1,11 @@
-Nome do artefato: Arquivo2-LarissaMello.txt alterado
+Nome do artefato: Arquivo2-LarissaMello.txt
 Nome do(a) autor(a): Larissa Chyevena Lopes de Mello
 Data de criação: 24/04/2018
-Data de modificação: 26/04/2018
 Hora de criação: 11:20:03
-Documento alterado
+---
+Data de alteração: 25/04/2018
+Hora de alteração: 11:47:05
+Documento alterado no ramo2 por João Pedro Arruda.
+---
+Data de modificação: 26/04/2018
+Documento alterado no master por Larissa Chyevena.
